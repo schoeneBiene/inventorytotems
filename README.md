@@ -19,8 +19,3 @@ Installation
 Download the latest version of the [plugin](https://github.com/ViaVersion).
 Place the JAR file in the "plugins" folder of your Spigot/Bukkit server.
 Start or restart your server.
-
-Adjustment
---------
-You can customize the effects that occur when a
-totem is triggered in the plugin's config.yml.
