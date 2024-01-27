@@ -15,6 +15,6 @@ Customizable effects that occur when a totem is triggered.
 
 Installation
 --------
-Download the latest version of the [plugin]([https://github.com/ViaVersion](https://github.com/DungeonHD/inventorytotems/releases)).
+Download the latest version of the [plugin](https://github.com/DungeonHD/inventorytotems/releases).
 Place the JAR file in the "plugins" folder of your Spigot/Bukkit server.
 Start or restart your server.
