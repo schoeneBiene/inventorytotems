@@ -1,0 +1,6 @@
+name: InventoryTotem
+version: '1.0'
+main: fun.dungeonstudios.inventorytotem.InventoryTotem
+api-version: '1.20'
+authors: [Dungeon Studios]
+description: Activate totems without having them in your off-hand
